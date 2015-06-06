@@ -16,3 +16,9 @@ License
 
 ![ScreenShot](Zopim-Chat-Widget/preview.jpg)
 
+###[iOS Spinner](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/iOS-Spinner)
+
+![ScreenShot](iOS-Spinner/preview.jpg)
+
+
+
