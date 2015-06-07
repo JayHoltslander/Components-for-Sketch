@@ -20,5 +20,9 @@ License
 
 ![ScreenShot](iOS-Spinner/preview.jpg)
 
+###[Apple'esque Play Button](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Apple-Play-Button)
+
+![ScreenShot](Apple-Play-Button/preview.jpg)
+
 
 
