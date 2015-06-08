@@ -7,7 +7,7 @@ Ready made symbols for a Zopim Chat widget.
 
 Currently contains a "Chat with us" and a "Leave a message" widget.
 
-Created by [Jay Holtslander](http://jay.holtslander.com)
+Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
 
 About Sketch
