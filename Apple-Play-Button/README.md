@@ -5,7 +5,7 @@ Vector based play button overlay in Sketch file format.
 
 ![Sketch 3 Apple play button overlay](preview.jpg)
 
-Created by [Jay Holtslander](http://jay.holtslander.com)
+Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
 
 About Sketch
