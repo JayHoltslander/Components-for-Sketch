@@ -24,5 +24,6 @@ License
 
 ![ScreenShot](Apple-Play-Button/preview.jpg)
 
+###[Apple'esque User Silhouette Avatar](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/User-Silhouette-Avatar)
 
-
+![ScreenShot](User-Silhouette-Avatar/preview.jpg)
