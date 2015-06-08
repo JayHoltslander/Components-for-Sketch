@@ -5,7 +5,7 @@ Vector based iOS spinner in Sketch file format.
 
 ![Sketch 3 iOS spinner](preview.jpg)
 
-Created by [Jay Holtslander](http://jay.holtslander.com)
+Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
 
 About Sketch
