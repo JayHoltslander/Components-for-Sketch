@@ -35,3 +35,7 @@ License
 ###[Meetup.com Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Meetup-logo)
 
 ![ScreenShot](Logos/Meetup-logo/preview.jpg)
+
+###[Sketch Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Sketch-logo)
+
+![ScreenShot](Logos/Sketch-logo/preview.jpg)
