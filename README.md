@@ -27,3 +27,11 @@ License
 ###[Apple'esque User Silhouette Avatar](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/User-Silhouette-Avatar)
 
 ![ScreenShot](User-Silhouette-Avatar/preview.jpg)
+
+###[Eventbrite Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Eventbrite-logo)
+
+![ScreenShot](Logos/Eventbrite-logo/preview.jpg)
+
+###[Meetup.com Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Meetup-logo)
+
+![ScreenShot](Logos/Meetup-logo/preview.jpg)
