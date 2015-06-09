@@ -5,7 +5,7 @@ Vector based Meetup.com logo in Sketch file format.
 
 Text was traced with Adobe Illustrator. It's not perfect but it's close enough for icon usage.
 
-![Meetup.com vector logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Meetup-logo/preview.jpg)
+![Meetup.com vector logo](http://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Meetup-logo/preview.jpg)
 
 Created by [Jay Holtslander](http://jay.holtslander.com)
 
