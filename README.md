@@ -39,3 +39,7 @@ License
 ###[Sketch Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Sketch-logo)
 
 ![ScreenShot](Logos/Sketch-logo/preview.jpg)
+
+###[Apple'esque Alert Badge](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Apple-Alert-Badge)
+
+![ScreenShot](Apple-Alert-Badge/preview.jpg)
