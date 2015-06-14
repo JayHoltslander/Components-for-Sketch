@@ -16,6 +16,10 @@ License
 
 ![ScreenShot](Zopim-Chat-Widget/preview.jpg)
 
+###[Intercom Chat widget](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Intercom-Chat-Widget)
+
+![ScreenShot](Intercom-Chat-Widget/preview.jpg)
+
 ###[iOS Spinner](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/iOS-Spinner)
 
 ![ScreenShot](iOS-Spinner/preview.jpg)
