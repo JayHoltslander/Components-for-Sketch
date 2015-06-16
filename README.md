@@ -12,6 +12,10 @@ License
 
 ##Currently includes:
 
+###[Yosemite Calculator](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Yosemite-Calculator)
+
+![ScreenShot](Yosemite-Calculator/preview.jpg)
+
 ###[Zopim Chat widget](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Zopim-Chat-Widget)
 
 ![ScreenShot](Zopim-Chat-Widget/preview.jpg)
