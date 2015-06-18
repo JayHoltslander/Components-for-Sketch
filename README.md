@@ -12,6 +12,12 @@ License
 
 ##Currently includes:
 
+
+
+###[Apple OS Logos 2015](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Apple-OS-Logos-2015)
+
+![ScreenShot](Logos/Apple-OS-Logos-2015/preview.png)
+
 ###[Yosemite Calculator](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Yosemite-Calculator)
 
 ![ScreenShot](Yosemite-Calculator/preview.jpg)
