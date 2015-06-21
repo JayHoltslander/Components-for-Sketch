@@ -57,3 +57,7 @@ License
 ###[Apple'esque Alert Badge](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Apple-Alert-Badge)
 
 ![ScreenShot](Apple-Alert-Badge/preview.jpg)
+
+###[3 Hole Punched Paper](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/3-Hole-Paper)
+
+![ScreenShot](3-Hole-Paper/preview.jpg)
