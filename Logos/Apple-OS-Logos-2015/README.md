@@ -5,7 +5,7 @@ Vector based OSX, iOS9, and WatchKit 2 logos in Sketch file format.
 
 ![Apple OS logos 2015](preview.png)
 
-Created by [Jay Holtslander](http://jay.holtslander.com)
+Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
 
 About Sketch

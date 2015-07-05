@@ -6,7 +6,7 @@ Vector based Sketch logo in Sketch file format.
 
 ![Sketch vector logo](preview.jpg)
 
-Created by [Jay Holtslander](http://jay.holtslander.com)
+Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
 
 About Sketch

@@ -1,11 +1,9 @@
-Meetup.com logo in Sketch format
+Google Drive Logo in Sketch format
 =========================================
 
-Vector based Meetup.com logo in Sketch file format.
+Vector based Google Drive logo in Sketch file format.
 
-Text was traced with Adobe Illustrator. It's not perfect but it's close enough for icon usage.
-
-![Meetup.com vector logo](https://raw.githubusercontent.com/JayHoltslander/Components-for-Sketch/master/Logos/Meetup-logo/preview.jpg)
+![Google Drive Logo](preview.png)
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
