@@ -12,12 +12,12 @@ License
 
 ##Currently includes:
 
-###[Google-Drive-Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Google-Drive-Logo)
+###[Google-Drive-Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Google-Drive-Logo)
 
 ![ScreenShot](Logos/Google-Drive-Logo/preview.png)
 
 
-###[Apple OS Logos 2015](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Apple-OS-Logos-2015)
+###[Apple OS Logos 2015](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Apple-OS-Logos-2015)
 
 ![ScreenShot](Logos/Apple-OS-Logos-2015/preview.png)
 
