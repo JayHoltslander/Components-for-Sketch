@@ -65,6 +65,6 @@ License
 
 ![ScreenShot](3-Hole-Paper/preview.jpg)
 
-###[3 Hole Punched Paper](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/App-Showcases/App-Showcase-01)
+###[App Showcase 01](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/App-Showcases/App-Showcase-01)
 
 ![ScreenShot](App-Showcases/App-Showcase-01/preview.jpg)
