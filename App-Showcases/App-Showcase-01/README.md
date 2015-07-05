@@ -1,16 +1,14 @@
-Apple OS logos 2015 in Sketch format
+App Showcase 01
 =========================================
 
-Vector based OSX, iOS9, and WatchKit 2 logos in Sketch file format.
-
-![Apple OS logos 2015](preview.jpg)
+Show off your app design's screens in this app showcase template. 
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
+![App Showcase](preview.jpg)
 
 About Sketch
 ------------
-
 [Sketch](http://bohemiancoding.com/sketch/) is a newish graphics editing app for Mac that is quickly growing in popularity as an alternative to Photoshop. 
 
 

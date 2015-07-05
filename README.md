@@ -12,14 +12,14 @@ License
 
 ##Currently includes:
 
-###[Google-Drive-Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Google-Drive-Logo)
+###[Google-Drive-Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Google-Drive-Logo)
 
-![ScreenShot](Logos/Google-Drive-Logo/preview.png)
+![ScreenShot](Logos/Google-Drive-Logo/preview.jpg)
 
 
-###[Apple OS Logos 2015](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Apple-OS-Logos-2015)
+###[Apple OS Logos 2015](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Apple-OS-Logos-2015)
 
-![ScreenShot](Logos/Apple-OS-Logos-2015/preview.png)
+![ScreenShot](Logos/Apple-OS-Logos-2015/preview.jpg)
 
 ###[Yosemite Calculator](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Yosemite-Calculator)
 
@@ -64,3 +64,7 @@ License
 ###[3 Hole Punched Paper](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/3-Hole-Paper)
 
 ![ScreenShot](3-Hole-Paper/preview.jpg)
+
+###[3 Hole Punched Paper](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/App-Showcases/App-Showcase-01)
+
+![ScreenShot](App-Showcases/App-Showcase-01/preview.jpg)
