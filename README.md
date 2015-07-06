@@ -12,10 +12,13 @@ License
 
 ##Currently includes:
 
+###[Documentation-Terminal](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Documentation-Terminal)
+
+![ScreenShot](Documentation-Terminal/preview.jpg)
+
 ###[Google-Drive-Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Google-Drive-Logo)
 
 ![ScreenShot](Logos/Google-Drive-Logo/preview.jpg)
-
 
 ###[Apple OS Logos 2015](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Apple-OS-Logos-2015)
 
