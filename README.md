@@ -12,6 +12,10 @@ License
 
 ##Currently includes:
 
+###[Google-Partner-Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Google-Partner)
+
+![ScreenShot](Logos/Google-Partner/preview.jpg)
+
 ###[Documentation-Terminal](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Documentation-Terminal)
 
 ![ScreenShot](Documentation-Terminal/preview.jpg)
