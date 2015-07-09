@@ -7,7 +7,7 @@ Vector based paper with 3 hole punch in Sketch file format.
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
-[Test](../)
+[Test](../../../../)
 
 
 About Sketch
