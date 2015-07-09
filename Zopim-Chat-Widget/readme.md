@@ -9,6 +9,7 @@ Currently contains a "Chat with us" and a "Leave a message" widget.
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
+[![Download](../btn-download.png)](https://github.com/JayHoltslander/Components-for-Sketch/raw/master/Zopim-Chat-Widget/Zopim-Chat-Widget.sketch) [![Star](../btn-star.png)](../../../)
 
 About Sketch
 ------------

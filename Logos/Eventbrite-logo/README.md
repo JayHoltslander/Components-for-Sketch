@@ -7,6 +7,7 @@ Vector based Eventbrite logo in Sketch file format.
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
+[![Download](../../btn-download.png)](https://github.com/JayHoltslander/Components-for-Sketch/raw/master/Eventbrite-Logo/Eventbrite-Logo.sketch) [![Star](../../btn-star.png)](../../../../)
 
 About Sketch
 ------------

@@ -7,6 +7,7 @@ A terminal window that you can fill with commands and stuff..
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
+[![Download](../btn-download.png)](https://github.com/JayHoltslander/Components-for-Sketch/raw/master/Documentation-Terminal/Documentation-Terminal.sketch) [![Star](../btn-star.png)](../../../)
 
 About Sketch
 ------------

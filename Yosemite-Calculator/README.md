@@ -7,6 +7,7 @@ Vector based Calculator in Sketch file format. A **pixel perfect** recreation of
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
+[![Download](../btn-download.png)](https://github.com/JayHoltslander/Components-for-Sketch/raw/master/Yosemite-Calculator/Yosemite-Calculator.sketch) [![Star](../btn-star.png)](../../../)
 
 About Sketch
 ------------

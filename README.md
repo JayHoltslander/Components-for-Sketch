@@ -52,15 +52,15 @@ License
 
 ![ScreenShot](User-Silhouette-Avatar/preview.jpg)
 
-###[Eventbrite Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Eventbrite-logo)
+###[Eventbrite Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Eventbrite-Logo)
 
 ![ScreenShot](Logos/Eventbrite-logo/preview.jpg)
 
-###[Meetup.com Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Meetup-logo)
+###[Meetup.com Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Meetup-Logo)
 
 ![ScreenShot](Logos/Meetup-logo/preview.jpg)
 
-###[Sketch Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Sketch-logo)
+###[Sketch Logo](https://github.com/JayHoltslander/Components-for-Sketch/tree/master/Logos/Sketch-Logo)
 
 ![ScreenShot](Logos/Sketch-logo/preview.jpg)
 

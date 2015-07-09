@@ -7,6 +7,7 @@ Vector based user silhouette avatar in Sketch file format. A perfect recreation 
 
 Created by [Jay Holtslander](http://jay.holtslander.com) as part of his library of [Components for Sketch](https://github.com/JayHoltslander/Components-for-Sketch)
 
+[![Download](../btn-download.png)](https://github.com/JayHoltslander/Components-for-Sketch/raw/master/User-Silhouette-Avatar/User-Silhouette-Avatar.sketch) [![Star](../btn-star.png)](../../../)
 
 About Sketch
 ------------
